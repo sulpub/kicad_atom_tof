@@ -1,0 +1,27 @@
+Cmp-Mod V01 Created by PcbNew   date = 28.10.2020 22:25:03
+
+BeginCmp
+TimeStamp = 539EEDBF
+Path = /539EEC0F
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = DEFAULT;
+EndCmp
+
+BeginCmp
+TimeStamp = 539EEDBF
+Path = /539EEC0F
+Reference = J2;
+ValeurCmp = [NoVal];
+IdModule  = Grove;
+EndCmp
+
+BeginCmp
+TimeStamp = 539EEDBF
+Path = /539EEC0F
+Reference = PWR1;
+ValeurCmp = [NoVal];
+IdModule  = DC-IN-TH_DC-0440-2.5A-2.0;
+EndCmp
+
+EndListe
